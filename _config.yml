@@ -22,21 +22,20 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : WKHP
 description: > # this means to ignore newlines until "Language & timezone"
-  WKHP - Werkverband van Katholieke Homo-Pastores
-
+  Werkverband van Katholieke Homo-Pastores
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: nl # the language of your site, default as "en"
 timezone: Europe/Amsterdam # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : organization # "person" (default), "organization"
   name      : WKHP
-  url       :
+  url       : https://www.homopastor.nl/
   avatar    : # path or url of avatar image (square)
   bio       :
   email     :
@@ -55,8 +54,8 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: homopastor/wkhp
-repository_tree: main
+repository:
+repository_tree:
 
 
 ## => Paths
@@ -74,7 +73,7 @@ paths:
 excerpt_separator: <!--more-->
 
 ## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+license: # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
@@ -222,4 +221,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
+

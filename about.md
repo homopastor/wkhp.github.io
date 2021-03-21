@@ -2,6 +2,7 @@
 layout: article
 titles:
   # @start locale config
+  nl      : &NL       Werkverband van katholieke homo-pastores
   en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
@@ -26,49 +27,34 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![WKHP geloofsdoek](/assets/images/WKHPgeloofsdoek.jpeg){:.border}
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+Seksualiteit en rooms-katholieke kerk hebben een spannende verhouding met elkaar. Homoseksuele katholieken merken die spanning aan den lijve. Ook homoseksuele pastores.
+Om staande te blijven in die spanning, en om ze tot een kracht om te vormen, heeft een aantal van hen in 1980 het Werkverband van Katholieke Homo-Pastores opgericht.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+Tot nu toe is de officiële lijn van de rooms-katholieke kerk dat seksuele betrekkingen alleen binnen een man-vrouw-huwelijk plaats mogen hebben. Aan allen die niet binnen een dergelijke constellatie leven, wordt seksuele onthouding voorgehouden. Homoseksuele betrekkingen worden daarmee per definitie als zondig veroordeeld.
+Als homoseksuele pastores bestrijden wij echter de opvatting, dat het "praktiseren" van homoseksualiteit zondig zou zijn. De officiële kerkelijke opvatting dat homoseksualiteit "intrinsiek ongeordend" is, is naar de overtuiging en ervaring van homoseksuele katholieken - en niet alleen van hen - niet houdbaar, ja zelfs verwerpelijk. Homoseksualiteit is voor ons een vondst van de Schepper, een gave Gods.
 
-## Features
+Het WKHP verenigt homoseksuele priesters, religieuzen en anderen die pastoraal werkzaam zijn in de rooms-katholieke kerk. Hoewel het WKHP in principe open staat voor vrouwen en mannen, zijn in feite vrijwel alleen mannen aangesloten. Een klein aantal van hen maakt deel uit van de oud-katholieke kerk (waar de omgang met homoseksuele relaties meer ontspannen is dan in de rooms-katholieke kerk). Het WKHP heeft ongeveer 80 leden.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+Doel van het WKHP is onder meer
 
-## Skins
+ - een vrije ruimte te creëren voor de leden waar de eigen homoseksuele oriëntatie niet ter discussie staat,
+ - het gesprek over (homo)seksualiteit en christelijk geloven te bevorderen binnen en buiten de kerk,
+ - op te komen voor erkenning van de veelvormigheid van seksuele en relationele betrekkingen waarin mensen elkaar goed kunnen doen.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+Daartoe organiseert het WKHP twee maal per jaar een landelijke dag voor de leden om elkaar te ontmoeten rond een studieus thema. Ook regionaal vinden zulke bijeenkomsten plaats.
+Daarnaast verzorgen leden van het WKHP af en toe een publicatie. De twee bekendste zijn de brochures "Tot zegen geroepen. Pastorale brief over geloof en (homo)seksualiteit" en "Tot zegen bereid. Pastorale brief over het vieren van vriendschap". Deze brochures zijn in verschillende talen vertaald.
+Indien de actualiteit om een ander katholiek geluid vraagt ten aanzien van (homo)seksualiteit, treedt het WKHP naar buiten met een persverklaring of interview.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+De illustraties op deze website zijn van de hand van priester-schilder Jan Haen, lid van het WKHP.
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+## Contact
+Het WKHP is bereikbaar voor verdere informatie of voor een vertrouwelijk gesprek
+via [contact@homopastor.nl](mailto:contact@homopastor.nl).
 
-### Highlight Theme
+Voor een vertrouwelijk gesprek zijn enkele WKHP-leden beschikbaar, onder meer de
+mensen die u op de foto's ziet: vlnr Theo Koster (woordvoerder), Frans Bossink (voorzitter) en Jos Kocken.
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+![Image](/assets/images/contact1.jpg){:.border}
+![Image](/assets/images/contact2.jpg){:.border}

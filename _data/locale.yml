@@ -1,4 +1,26 @@
 # @start locale config
+## => Dutch
+########################
+nl: &NL
+  SUBSCRIBE               : "Abonneren"
+  READMORE                : "Lees meer"
+  SEARCH                  : "Zoek"
+  CANCEL                  : "Annuleren"
+  VIEWS                   : "views"
+  LAST_UPDATED            : "Laatste update"
+  PREVIOUS                : "VORIGE"
+  NEXT                    : "VOLGENDE"
+  ARTICLE_DATE_FORMAT     : "%d-%m-%Y"
+  ARTICLE_LIST_DATE_FORMAT: "%d-%m-%Y"
+  STATISTICS              : "[POST_COUNT] posts, [PAGE_COUNT] pagina's."
+  LICENSE_ANNOUNCE        : "Deze site valt onder de [LICENSE] licentie."
+  POST_ON_GITHUB          : "Aanpassen op Github"
+  FOLLOW_ME               : "volg mij op [NAME]."
+  FOLLOW_US               : "Volg ons op [NAME]."
+  EMAIL_ME                : "E-mail mij."
+  EMAIL_US                : "E-mail ons."
+  COPYRIGHT_DATES         : "2021"
+
 ## => English
 ########################
 en: &EN

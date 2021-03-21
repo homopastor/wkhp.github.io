@@ -1,6 +1,18 @@
 header:
   - titles:
       # @start locale config
+      nl    : &NL       Nieuws
+      en    : &EN       News
+      en-GB : *EN
+      en-US : *EN
+      en-CA : *EN
+      en-AU : *EN
+      # @end locale config
+    url: /
+
+  - titles:
+      # @start locale config
+      nl      : &NL       Archief
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -26,6 +38,7 @@ header:
 
   - titles:
       # @start locale config
+      nl      : &NL       Over ons
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
